@@ -1,4 +1,3 @@
-
 public class HeapSort {
     public void sort(int arr[]) {
         int N = arr.length;
